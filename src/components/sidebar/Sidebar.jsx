@@ -79,6 +79,176 @@ export default function Sidebar() {
             <span className="sidebarListItemText">Courses</span>
           </li>
         </ul>
+
+        <button className="sidebarButton">Show More</button>
+        <hr className="sidebarHr" />
+
+        <ul className="sidebarFriendList">
+          {/* ----------------- 1 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 2 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 3 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 4 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 5 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 6 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 7 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 8 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 9 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 10 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 11 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 12 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 13 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 14 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+
+          {/* ----------------- 15 ------------------- */}
+
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Mobi .J. Alex</span>
+          </li>
+        </ul>
       </div>
     </div>
   );
