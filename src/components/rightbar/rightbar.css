@@ -36,3 +36,57 @@
   margin: 0;
   list-style: none;
 }
+
+.rightbarTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.rightbarInfo {
+  margin-bottom: 30px;
+}
+
+.rightbarInfoItem {
+  margin-bottom: 10px;
+}
+
+.rightbarInfoKey {
+  font-weight: 500;
+  margin-right: 15px;
+  color: #555;
+}
+
+.rightbarInfoValue {
+  font-weight: 300;
+}
+
+.rightbarFollowings {
+  display: grid;
+  grid-gap: 5px;
+  /* display: flex;
+  flex-wrap: wrap; */
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-evenly;
+}
+
+.rightbarFollowing {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.rightbarFollowingImg {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .rightbarFollowings {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
